@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learniing**
 
-- 📫 How to reach me? **phull.kanav@gmail.com**
-
-- ⚡ Fun fact **I am a Quick Learner.**
+- ⚡ **I am a Quick Learner.**
 
 
 
